@@ -1,0 +1,18 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: PHP Source Docs
+  structure:
+    - type: space
+      key: space-docs
+      title: Docs
+      path: docs
+      default: true
+      content:
+        directory: ./docs
+    - type: space
+      key: space-docs-old
+      title: Docs (legacy)
+      path: docs-old
+      content:
+        directory: ./docs-old
