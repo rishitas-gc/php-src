@@ -4,9 +4,11 @@ _**IS IT WORKINGGGGGGGGGG?????**_
 
 _**:((((**_
 
+\[COMMIT FROM GITHUB]
 
-[COMMIT FROM GITHUB]
+{UPDATE GITBOOK}
 
+*
 
 XSS (Cross Site Scripting) hacks are becoming more and more prevalent, and can be quite difficult to prevent. Whenever you accept user data and somehow display this data back to users, you are likely vulnerable to XSS hacks.
 
