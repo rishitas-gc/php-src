@@ -14,7 +14,7 @@ This is the home of the php-src internal documentation, hosted at [php.github.io
 * https://wiki.php.net/internals
 * Blogs from contributors
 
-##
+## Heading 1
 
 ## DEMOa
 
