@@ -16,7 +16,7 @@ This is the home of the php-src internal documentation, hosted at [php.github.io
 
 ##
 
-## DEMOe
+## DEMOa
 
 ## How to build
 
