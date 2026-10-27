@@ -6,7 +6,7 @@ _**CHECK IF MAKING CHANGES IN GITBOOK WILL CREATE A COMMIT IN GITHUB**_
 
 _**tired of testing12**_ &#x20;
 
-qwerty
+This tool is not perfect. It breaks on custom directives, so we might switch to either a fork or something else in the future.
 
 _**???**_
 
